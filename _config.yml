@@ -1,1 +1,14 @@
-theme: jekyll-theme-tactile
+title: Gustavo de Paula Avelar
+tagline: Search and AI Engineering
+description: Search and AI engineering, built on large-scale data systems. Senior software engineer at Envato, MSc from UFMG.
+url: https://gpavelar.github.io
+
+github_username: gpavelar
+linkedin_url: "https://www.linkedin.com/in/gpavelar/"
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - .tool-versions
+  - README.md
