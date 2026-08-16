@@ -1,1 +1,13 @@
-theme: jekyll-theme-tactile
+title: Gustavo de Paula Avelar
+description: AI engineering and search engineering.
+url: https://gpavelar.github.io
+
+github_username: gpavelar
+linkedin_url: "https://www.linkedin.com/in/gpavelar/"
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - .tool-versions
+  - README.md

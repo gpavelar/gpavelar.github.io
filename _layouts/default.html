@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ site.title }}</title>
+  <meta name="description" content="{{ site.description }}">
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+</head>
+<body>
+  <main>
+    {{ content }}
+  </main>
+
+  <footer>
+    <a href="https://github.com/{{ site.github_username }}">GitHub</a>
+    <a href="{{ site.linkedin_url }}">LinkedIn</a>
+  </footer>
+</body>
+</html>
