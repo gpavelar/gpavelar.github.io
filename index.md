@@ -7,9 +7,9 @@ layout: default
 <p class="lede">Search and AI engineering, built on large-scale data systems.</p>
 
 I'm a senior software engineer at Envato in Melbourne, working on search. I came
-to it through data engineering and research. My MSc at UFMG was on distributed
-data platforms and clustering at scale, and that's still how I think about
-retrieval.
+to it through data engineering and research: first distributed data platforms and
+clustering at scale on Spark and Hadoop, later a master's on anomaly detection
+with ensembles. That's still how I think about retrieval.
 
 ## Work
 
@@ -84,8 +84,10 @@ can explore real repositories. Open source under Apache 2.0.</p>
 <!-- This is where the data engineering shows up: as foundation, not a third job
      title. The papers above are the evidence for it. -->
 
-MSc in Computer Science from UFMG. I worked on
-[Lemonade](https://github.com/eubr-bigsea), a Spark-based platform for data
-analytics built in the EuBra-BIGSEA collaboration, and on scalable clustering
-over large text collections. The papers above came out of that work: distributed
-analytics platforms, text clustering at scale, and anomaly-detection ensembles.
+My undergraduate work at UFV was on distributed data platforms and clustering at
+scale, using Spark and Hadoop. My MSc in Computer Science at UFMG was on anomaly
+detection with ensembles.
+
+Alongside the MSc I worked on [Lemonade](https://github.com/eubr-bigsea), a
+Spark-based platform for data analytics built in the EuBra-BIGSEA collaboration.
+The papers above came out of all three.
